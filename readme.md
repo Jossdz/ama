@@ -2,7 +2,7 @@
 
 ## [Haz una pregunta](https://github.com/jossdz/ama/issues/new) &nbsp;&nbsp;&nbsp; [Lee las preguntas con respuesta](https://github.com/jossdz/ama/issues?q=is%3Aissue+is%3Aclosed)
 
-Ve mis preguntas [favoritas/populares/más comunes](https://github.com/jossdz/ama/issues?utf8=%E2%9C%93&q=label%3A%22favorite%2Fpopular%2Ffrequently%20asked%22%20). Existen otras [labels](https://github.com/jossdz/ama/labels).
+Ve mis preguntas [favoritas/populares/más comunes](https://github.com/Jossdz/ama/labels/favorita%2Fpopular%2Fcom%C3%BAn). Existen otras [labels](https://github.com/jossdz/ama/labels).
 
 **Si no deseas que tu pregunta sea pública**, envía un [mail](mailto:carloscorrea.dev@gmail.com) y puedo publicar la pregunta por tí 😉.
 
